@@ -3,6 +3,7 @@
 ## 🎯 Objetivos de Aprendizaje
 
 Al completar este módulo, serás capaz de:
+
 - Comprender los conceptos básicos de programación en Python
 - Manejar variables, tipos de datos y operaciones aritméticas
 - Utilizar estructuras de control (if, for, while)
@@ -12,29 +13,29 @@ Al completar este módulo, serás capaz de:
 ## 📚 Contenidos
 
 ### 01-arithmetic-and-variables.ipynb
+
 **Variables y Operaciones Aritméticas**
+
 - Introducción a Python
 - Variables y tipos de datos
 - Operaciones matemáticas básicas
 - Entrada y salida de datos
 
 ### fechas.py
+
 **Manejo de Fechas**
+
 - Trabajo con fechas y tiempo
 - Formateo de fechas
 - Cálculos temporales
 
 ### HelloPython.py
+
 **Primer Programa**
+
 - Estructura básica de un programa Python
 - Comentarios y documentación
 - Ejecución de scripts
-
-## 🛠️ Datasets
-
-La carpeta `data/` contiene archivos de ejemplo para practicar:
-- Archivos CSV simples
-- Datos de ejemplo para ejercicios
 
 ## 🚀 Cómo Empezar
 
@@ -48,7 +49,3 @@ La carpeta `data/` contiene archivos de ejemplo para practicar:
 - Python 3.8+ instalado
 - Jupyter Notebook instalado
 - Conocimientos básicos de matemáticas
-
-## 🔗 Siguiente Módulo
-
-Una vez completado este módulo, continúa con [02-oop](../02-oop/README.md) para aprender Programación Orientada a Objetos.
