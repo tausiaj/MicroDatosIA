@@ -43,9 +43,3 @@ Al completar este módulo, serás capaz de:
 2. Comienza con `01-arithmetic-and-variables.ipynb`
 3. Ejecuta cada celda en orden
 4. Completa los ejercicios propuestos
-
-## 📝 Prerrequisitos
-
-- Python 3.8+ instalado
-- Jupyter Notebook instalado
-- Conocimientos básicos de matemáticas

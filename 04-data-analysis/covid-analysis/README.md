@@ -62,4 +62,4 @@ La carpeta `data/` contiene:
 
 ## 🔗 Siguiente Módulo
 
-Una vez completado este módulo, explora otros análisis en [har-activity-recognition](../har-activity-recognition/README.md) o [sensor-data](../sensor-data/README.md).
+Una vez completado este módulo, explora otros análisis en [har-activity-recognition](../har-activity-recognition/README.md).
