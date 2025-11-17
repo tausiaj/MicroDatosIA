@@ -74,7 +74,7 @@ PCA/
 
 2. **Principal Component Analysis**:
    - Preparar los datos para el análisis con esta técnica
-   - Obtener los "loading factors" y las nuevas coordenadas
+   - Obtener los "projecting vectors" y las nuevas coordenadas
    - Evaluar la varianza explicada
 
 3. **Visualización**:
